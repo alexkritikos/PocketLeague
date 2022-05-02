@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Files generated from packaging the UE project
+Config/HoloLens/*
+Windows/*
