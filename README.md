@@ -1,2 +1,2 @@
 # PocketLeague
-A UE5 video game project inspired by Rocket League
+A UE5 Early Access video game project inspired by Rocket League
